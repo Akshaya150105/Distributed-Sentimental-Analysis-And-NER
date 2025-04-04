@@ -32,4 +32,7 @@ This component focuses on extracting named entities (e.g., persons, organization
 - **srsly**: Creates and handles annotated JSONL data for NER model training.
 - **os, glob, random**: Facilitates file handling, directory scanning, and data shuffling for preprocessing.
 - **Gradio**: Provides an interactive interface for real-time NER extraction from text or uploaded files.
+  
+  
+
       
